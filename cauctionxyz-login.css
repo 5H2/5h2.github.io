@@ -1,0 +1,223 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.cauctionxyz-login-nCw {
+  width: 100%;
+  height: 108rem;
+  background-color: #1c1c1c;
+}
+.cauctionxyz-login-nCw .section-j8B {
+  box-sizing: border-box;
+  padding: 1.4rem 1.4rem 40rem 1.4rem;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/background-bg-k4F.png');
+  background-color: #242424;
+}
+.cauctionxyz-login-nCw .section-j8B .exit-FcK {
+  margin-bottom: 20.4rem;
+  width: 4rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cauctionxyz-login-nCw .section-j8B .auto-group-fybm-nMM {
+  margin: 0rem 72rem 0rem 71.9rem;
+  box-sizing: border-box;
+  padding: 0.5rem 5.4rem 3.1rem 5.4rem;
+  width: calc(100% - 143.9rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #2e2e2e;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.cauctionxyz-login-nCw .section-j8B .auto-group-fybm-nMM .login-G1d {
+  margin-bottom: 0.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1;
+  font-family: Luckiest Guy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-login-nCw .section-j8B .auto-group-fybm-nMM .line-7-nEs {
+  margin-bottom: 3.75rem;
+  width: 27.7rem;
+  height: 0.05rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cauctionxyz-login-nCw .section-j8B .auto-group-fybm-nMM .auto-group-j2qx-vM5 {
+  margin-bottom: 2.3rem;
+  width: 100%;
+  height: 7.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.cauctionxyz-login-nCw .section-j8B .auto-group-fybm-nMM .auto-group-j2qx-vM5 .username-s1R {
+  width: 8.6rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 0.3rem;
+  top: 0;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cauctionxyz-login-nCw .section-j8B .auto-group-fybm-nMM .auto-group-j2qx-vM5 .rectangle-5-yKM {
+  width: 34.5rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 0;
+  top: 2.3rem;
+  background-color: #464646;
+  border-radius: 1.5rem;
+}
+.cauctionxyz-login-nCw .section-j8B .auto-group-fybm-nMM .auto-group-j2qx-vM5 .click-to-edit-thD {
+  width: 11.4rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 1.2rem;
+  top: 3.6rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #6c6c6c;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cauctionxyz-login-nCw .section-j8B .auto-group-fybm-nMM .auto-group-g9ef-PP5 {
+  margin-bottom: 1.3rem;
+  width: 100%;
+  height: 7.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.cauctionxyz-login-nCw .section-j8B .auto-group-fybm-nMM .auto-group-g9ef-PP5 .password-vP1 {
+  width: 8.1rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 0.3rem;
+  top: 0;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cauctionxyz-login-nCw .section-j8B .auto-group-fybm-nMM .auto-group-g9ef-PP5 .rectangle-6-qVy {
+  width: 34.5rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 0;
+  top: 2.4rem;
+  background-color: #464646;
+  border-radius: 1.5rem;
+}
+.cauctionxyz-login-nCw .section-j8B .auto-group-fybm-nMM .auto-group-g9ef-PP5 .click-to-edit-NF1 {
+  width: 11.4rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 1.2rem;
+  top: 3.8rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #6c6c6c;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cauctionxyz-login-nCw .section-j8B .auto-group-fybm-nMM .auto-group-n57u-GLP {
+  margin: 0rem 2.7rem 0.4rem 0rem;
+  width: 31.2rem;
+  height: 5.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.cauctionxyz-login-nCw .section-j8B .auto-group-fybm-nMM .auto-group-n57u-GLP .rectangle-7-CE3 {
+  width: 31.2rem;
+  height: 5.1rem;
+  position: absolute;
+  left: 0;
+  top: 0.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.cauctionxyz-login-nCw .section-j8B .auto-group-fybm-nMM .auto-group-n57u-GLP .mythical-talisman-bundle-purchase-Lr3 {
+  width: 24.9rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 4.5rem;
+  top: 0;
+  border-radius: 0.5rem;
+}
+.cauctionxyz-login-nCw .section-j8B .auto-group-fybm-nMM .auto-group-n57u-GLP .mythical-talisman-bundle-purchase-Lr3 .button-TQs {
+  margin-bottom: 0.4rem;
+  width: 100%;
+  height: 5.2rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.7rem 2.1rem rgba(255, 153, 0, 0.200000003), 0 0.3rem 0.8rem rgba(255, 229, 0, 0.25);
+  background-color: #ffae00;
+  border-radius: 0.4rem;
+}
+.cauctionxyz-login-nCw .section-j8B .auto-group-fybm-nMM .dont-have-an-account-sign-up-szP {
+  margin-right: 2.8rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.cauctionxyz-login-nCw .section-j8B .auto-group-fybm-nMM .dont-have-an-account-sign-up-szP .dont-have-an-account-sign-up-szP-sub-0 {
+}
+.cauctionxyz-login-nCw .section-j8B .auto-group-fybm-nMM .dont-have-an-account-sign-up-szP .dont-have-an-account-sign-up-szP-sub-1 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  text-decoration-line: underline;
+  font-family: Arial, 'Source Sans Pro';
+}
