@@ -1,0 +1,2195 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.cauctionxyz-coins-Chm {
+  width: 100%;
+  height: 496.4rem;
+  background-color: #1c1c1c;
+}
+.cauctionxyz-coins-Chm .section-7pj {
+  box-sizing: border-box;
+  padding-bottom: 0.029rem;
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/background-bg.png');
+  background-color: #242424;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-fjpo-3Cb {
+  width: 100%;
+  height: 18.559rem;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-fjpo-3Cb .header-Zwd {
+  box-sizing: border-box;
+  padding: 3rem 1.784rem 2.909rem 77.55rem;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: rgba(28, 28, 28, 0.75);
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-fjpo-3Cb .header-Zwd .coins-U31 {
+  margin: 10.55rem 0.021rem 0rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffc712;
+  font-family: Arimo Hebrew Subset, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-fjpo-3Cb .header-Zwd .auto-group-in3y-999 {
+  margin: 2.43rem 73.429rem 0rem 0rem;
+  width: 29.4rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-fjpo-3Cb .header-Zwd .auto-group-in3y-999 .link-heading-1-cs-auction-rpF {
+  margin-bottom: 0.52rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 6rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  font-family: Arimo Hebrew Subset, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-fjpo-3Cb .header-Zwd .auto-group-in3y-999 .auto-group-qhwd-kud {
+  margin-right: 0.1205rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-fjpo-3Cb .header-Zwd .auto-group-in3y-999 .auto-group-qhwd-kud .miscellaneous-gYP {
+  margin-right: 3.15rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffc712;
+  font-family: Arimo Hebrew Subset, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-fjpo-3Cb .header-Zwd .auto-group-in3y-999 .auto-group-qhwd-kud .items-zoy {
+  margin-right: 3.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffc712;
+  font-family: Arimo Hebrew Subset, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-fjpo-3Cb .header-Zwd .auto-group-in3y-999 .auto-group-qhwd-kud .discord-Uz3 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #513dcf;
+  font-family: Arimo Hebrew Subset, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-fjpo-3Cb .header-Zwd .link-nE3 {
+  margin-bottom: 9.85rem;
+  width: 5.916rem;
+  height: 2.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #1c1c1c;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #ccae4e;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb {
+  box-sizing: border-box;
+  padding: 2.841rem 27.7rem 0.421rem 24.497rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .coins-heading-wFM {
+  margin: 0rem 23.2rem 6.193rem 25.203rem;
+  width: calc(100% - 48.4026rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .coins-heading-wFM .heading-1-coins-455 {
+  margin: 0rem 0rem 0.407rem 0.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 6.5rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #fcbd0f;
+  font-family: Luckiest Guy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .coins-heading-wFM .divdivider-f4s {
+  width: 100%;
+  height: 0.2rem;
+  border: solid 0.1rem #ccae4e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .safe-coins-heading-A1d {
+  margin: 0rem 23.2rem 6rem 25.203rem;
+  width: calc(100% - 48.4026rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .safe-coins-heading-A1d .auto-group-wpaj-sRq {
+  margin-bottom: 1.8rem;
+  width: 100%;
+  height: 4.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .safe-coins-heading-A1d .auto-group-wpaj-sRq .divdivider-QwZ {
+  width: 91.4rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 0;
+  top: 4.3rem;
+  border: solid 0.1rem #ccae4e;
+  box-sizing: border-box;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .safe-coins-heading-A1d .auto-group-wpaj-sRq .heading-2-safe-coins-Y2B {
+  width: 22.7rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 34.4rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4.5rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #30fc0f;
+  font-family: Luckiest Guy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .safe-coins-heading-A1d .safe-coins-with-a-0-ban-chance-all-earned-with-real-safe-methods-E9u {
+  margin-right: 0.1rem;
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #afdf4b;
+  font-family: Luckiest Guy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .safe-coins-heading-A1d .safe-coins-with-a-0-ban-chance-all-earned-with-real-safe-methods-E9u .safe-coins-with-a-0-ban-chance-all-earned-with-real-safe-methods-E9u-sub-0 {
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .safe-coins-heading-A1d .safe-coins-with-a-0-ban-chance-all-earned-with-real-safe-methods-E9u .safe-coins-with-a-0-ban-chance-all-earned-with-real-safe-methods-E9u-sub-1 {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1;
+  text-decoration-line: underline;
+  color: #57df4b;
+  font-family: Luckiest Guy, 'Source Sans Pro';
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .safe-coins-heading-A1d .safe-coins-with-a-0-ban-chance-all-earned-with-real-safe-methods-E9u .safe-coins-with-a-0-ban-chance-all-earned-with-real-safe-methods-E9u-sub-2 {
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-1-nz3 {
+  margin: 0rem 4.9rem 0.004rem 5.703rem;
+  width: calc(100% - 10.6026rem);
+  height: 54.196rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-1-nz3 .auto-group-cmsv-Hvo {
+  box-sizing: border-box;
+  padding-right: 2.4rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-1-nz3 .auto-group-cmsv-Hvo .million-Rn7 {
+  margin-right: 3.4rem;
+  width: 30rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-1-nz3 .auto-group-cmsv-Hvo .million-Rn7 .million-image-mLB {
+  margin-bottom: 0.3674rem;
+  width: 30rem;
+  height: 40.0115rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-1-nz3 .auto-group-cmsv-Hvo .million-Rn7 .million-text-se7 {
+  margin: 0rem 1.8rem 0.3rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.68rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffaa00;
+  font-family: Arial Rounded MT Bold, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-1-nz3 .auto-group-cmsv-Hvo .million-Rn7 .million-price-9rX {
+  margin: 0rem 1.7rem 0.517rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #a1deaa;
+  font-family: Arial Rounded MT Bold, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-1-nz3 .auto-group-cmsv-Hvo .million-Rn7 .million-purchase-ow5 {
+  margin: 0rem 8.779rem 0rem 7.021rem;
+  box-sizing: border-box;
+  padding: 0 1.05rem;
+  width: calc(100% - 15.8rem);
+  height: 5rem;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-1-nz3 .auto-group-cmsv-Hvo .million-Rn7 .million-purchase-ow5 .button-uDR {
+  margin-bottom: 0.4rem;
+  width: 100%;
+  height: 4.6rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.7rem 2.1rem rgba(37, 44, 97, 0.200000003), 0 0.3rem 0.8rem rgba(136, 144, 194, 0.25);
+  background-color: #ffaa00;
+  border-radius: 0.4rem;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-1-nz3 .auto-group-cmsv-Hvo .million-JWT {
+  width: 30rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-1-nz3 .auto-group-cmsv-Hvo .million-JWT .million-image-eKR {
+  margin-bottom: 0.3674rem;
+  width: 30rem;
+  height: 40.0115rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-1-nz3 .auto-group-cmsv-Hvo .million-JWT .million-text-nAj {
+  margin: 0rem 0rem 0.3rem 0.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.68rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffaa00;
+  font-family: Arial Rounded MT Bold, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-1-nz3 .auto-group-cmsv-Hvo .million-JWT .million-price-h2o {
+  margin: 0rem 0rem 0.517rem 0.3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #a1deaa;
+  font-family: Arial Rounded MT Bold, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-1-nz3 .auto-group-cmsv-Hvo .million-JWT .million-purchase-z1u {
+  margin: 0rem 7.779rem 0rem 8.021rem;
+  box-sizing: border-box;
+  padding: 0 1.05rem;
+  width: calc(100% - 15.8rem);
+  height: 5rem;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-1-nz3 .auto-group-cmsv-Hvo .million-JWT .million-purchase-z1u .button-fNw {
+  margin-bottom: 0.4rem;
+  width: 100%;
+  height: 4.6rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.7rem 2.1rem rgba(37, 44, 97, 0.200000003), 0 0.3rem 0.8rem rgba(136, 144, 194, 0.25);
+  background-color: #ffaa00;
+  border-radius: 0.4rem;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-1-nz3 .million-tWb {
+  margin-right: 2.8rem;
+  width: 30rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-1-nz3 .million-tWb .million-image-1r7 {
+  margin-bottom: 0.5674rem;
+  width: 30rem;
+  height: 40.0115rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-1-nz3 .million-tWb .million-text-xFZ {
+  margin: 0rem 0rem 0.3rem 2.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.68rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffaa00;
+  font-family: Arial Rounded MT Bold, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-1-nz3 .million-tWb .million-price-FkT {
+  margin: 0rem 0rem 0.517rem 2.3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #a1deaa;
+  font-family: Arial Rounded MT Bold, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-1-nz3 .million-tWb .million-purchase-NKH {
+  margin: 0rem 6.779rem 0rem 9.021rem;
+  box-sizing: border-box;
+  padding: 0 1.05rem;
+  width: calc(100% - 15.8rem);
+  height: 5rem;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-1-nz3 .million-tWb .million-purchase-NKH .button-GfZ {
+  margin-bottom: 0.4rem;
+  width: 100%;
+  height: 4.6rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.7rem 2.1rem rgba(37, 44, 97, 0.200000003), 0 0.3rem 0.8rem rgba(136, 144, 194, 0.25);
+  background-color: #ffaa00;
+  border-radius: 0.4rem;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-1-nz3 .million-gUP {
+  width: 30.6rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-1-nz3 .million-gUP .million-image-Rgs {
+  margin: 0rem 0.6rem 0.567rem 0rem;
+  width: 30rem;
+  height: 40.0115rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-1-nz3 .million-gUP .million-text-Loq {
+  margin: 0rem 0rem 0.3rem 3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.68rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffaa00;
+  font-family: Arial Rounded MT Bold, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-1-nz3 .million-gUP .million-price-Sby {
+  margin: 0rem 0rem 0.517rem 3.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #a1deaa;
+  font-family: Arial Rounded MT Bold, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-1-nz3 .million-gUP .million-purchase-ZRh {
+  margin: 0rem 6.679rem 0rem 9.721rem;
+  box-sizing: border-box;
+  padding: 0 1.05rem;
+  width: calc(100% - 16.4rem);
+  height: 5rem;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-1-nz3 .million-gUP .million-purchase-ZRh .button-sxB {
+  margin-bottom: 0.4rem;
+  width: 100%;
+  height: 4.6rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.7rem 2.1rem rgba(37, 44, 97, 0.200000003), 0 0.3rem 0.8rem rgba(136, 144, 194, 0.25);
+  background-color: #ffaa00;
+  border-radius: 0.4rem;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB {
+  margin: 0rem 4.05rem 10.104rem 6.603rem;
+  width: calc(100% - 10.6526rem);
+  height: 115.596rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-3-zfR {
+  width: 129.15rem;
+  height: 58.596rem;
+  position: absolute;
+  left: 0;
+  top: 57rem;
+  display: flex;
+  align-items: flex-end;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-3-zfR .billion-7zw {
+  margin-right: 16.4rem;
+  width: 33.6rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-3-zfR .billion-7zw .auto-group-ydpm-G79 {
+  margin-bottom: 1.0675rem;
+  width: 100%;
+  height: 43.6115rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-3-zfR .billion-7zw .auto-group-ydpm-G79 .billion-image-1Kd {
+  width: 30rem;
+  height: 40.0115rem;
+  position: absolute;
+  left: 0;
+  top: 3.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-3-zfR .billion-7zw .auto-group-ydpm-G79 .vector-9-K5R {
+  width: 13.9rem;
+  height: 11.8rem;
+  position: absolute;
+  left: 19.7rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.5rem;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-3-zfR .billion-7zw .auto-group-ydpm-G79 .item-20-SA3 {
+  width: 8.4rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 22.65rem;
+  top: 4.15rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.7rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Luckiest Guy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-3-zfR .billion-7zw .billion-image-text-6VV {
+  margin: 0rem 3.4rem 0.6rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffaa00;
+  font-family: Arial Rounded MT Bold, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-3-zfR .billion-7zw .billion-image-price-Nhu {
+  margin: 0rem 3.3rem 0.517rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #a1deaa;
+  font-family: Arial Rounded MT Bold, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-3-zfR .billion-7zw .billion-purchase-tRM {
+  margin: 0rem 11.379rem 0rem 8.021rem;
+  box-sizing: border-box;
+  padding: 0rem 1.05rem 0rem 1.05rem;
+  width: calc(100% - 19.4rem);
+  height: 5rem;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-3-zfR .billion-7zw .billion-purchase-tRM .button-oHR {
+  margin-bottom: 0.4rem;
+  width: 100%;
+  height: 4.6rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.7rem 2.1rem rgba(37, 44, 97, 0.200000003), 0 0.3rem 0.8rem rgba(136, 144, 194, 0.25);
+  background-color: #ffaa00;
+  border-radius: 0.4rem;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-3-zfR .billion-qV1 {
+  margin: 0rem 11.75rem 0.6rem 0rem;
+  width: 33.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-3-zfR .billion-qV1 .auto-group-vb75-mNf {
+  margin-bottom: 1.0675rem;
+  width: 100%;
+  height: 43.6115rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-3-zfR .billion-qV1 .auto-group-vb75-mNf .billion-image-WLF {
+  width: 30rem;
+  height: 40.0115rem;
+  position: absolute;
+  left: 0;
+  top: 3.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-3-zfR .billion-qV1 .auto-group-vb75-mNf .vector-10-1H1 {
+  width: 13.9rem;
+  height: 11.8rem;
+  position: absolute;
+  left: 20rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.5rem;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-3-zfR .billion-qV1 .auto-group-vb75-mNf .item-30-hvX {
+  width: 8.4rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 22.95rem;
+  top: 4.15rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.7rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Luckiest Guy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-3-zfR .billion-qV1 .billion-text-Zxj {
+  margin: 0rem 3.1rem 0.6rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffaa00;
+  font-family: Arial Rounded MT Bold, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-3-zfR .billion-qV1 .billion-price-5AP {
+  margin: 0rem 3rem 0.517rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #a1deaa;
+  font-family: Arial Rounded MT Bold, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-3-zfR .billion-qV1 .billion-purchase-BjD {
+  margin: 0rem 11.379rem 0rem 8.321rem;
+  box-sizing: border-box;
+  padding: 0 1.05rem;
+  width: calc(100% - 19.7rem);
+  height: 5rem;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-3-zfR .billion-qV1 .billion-purchase-BjD .button-JYw {
+  margin-bottom: 0.4rem;
+  width: 100%;
+  height: 4.6rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.7rem 2.1rem rgba(37, 44, 97, 0.200000003), 0 0.3rem 0.8rem rgba(136, 144, 194, 0.25);
+  background-color: #ffaa00;
+  border-radius: 0.4rem;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-3-zfR .custom-amount-h5H {
+  margin-bottom: 0.4rem;
+  width: 33.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-3-zfR .custom-amount-h5H .custom-amount-image-DJX {
+  margin-bottom: 0.5385rem;
+  width: 30rem;
+  height: 40.0115rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-3-zfR .custom-amount-h5H .custom-amount-text-k3Z {
+  margin-bottom: 1.329rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffaa00;
+  font-family: Arial Rounded MT Bold, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-3-zfR .custom-amount-h5H .custom-amount-price-G1u {
+  margin: 0rem 0rem 0.517rem 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #a1deaa;
+  font-family: Arial Rounded MT Bold, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-3-zfR .custom-amount-h5H .custom-amount-purchase-yS7 {
+  margin: 0rem 8.929rem 0rem 10.371rem;
+  box-sizing: border-box;
+  padding: 0 1.05rem;
+  width: calc(100% - 19.3rem);
+  height: 5rem;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-3-zfR .custom-amount-h5H .custom-amount-purchase-yS7 .button-HBu {
+  margin-bottom: 0.4rem;
+  width: 100%;
+  height: 4.6rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.7rem 2.1rem rgba(37, 44, 97, 0.200000003), 0 0.3rem 0.8rem rgba(136, 144, 194, 0.25);
+  background-color: #ffaa00;
+  border-radius: 0.4rem;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-2-uj5 {
+  width: 112.5rem;
+  height: 57.596rem;
+  position: absolute;
+  left: 5.5rem;
+  top: 0;
+  display: flex;
+  align-items: flex-start;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-2-uj5 .auto-group-mfaw-3KV {
+  margin-right: 3.1rem;
+  width: 74.5rem;
+  height: 57.396rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-2-uj5 .auto-group-mfaw-3KV .million-mmH {
+  width: 30rem;
+  height: 54.396rem;
+  position: absolute;
+  left: 44.5rem;
+  top: 3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-2-uj5 .auto-group-mfaw-3KV .million-mmH .million-image-g7Z {
+  margin-bottom: 0.7674rem;
+  width: 30rem;
+  height: 40.0115rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-2-uj5 .auto-group-mfaw-3KV .million-mmH .million-text-ysM {
+  margin: 0rem 0rem 0.3rem 0.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.68rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffaa00;
+  font-family: Arial Rounded MT Bold, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-2-uj5 .auto-group-mfaw-3KV .million-mmH .million-price-Up7 {
+  margin: 0rem 0rem 0.517rem 0.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #a1deaa;
+  font-family: Arial Rounded MT Bold, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-2-uj5 .auto-group-mfaw-3KV .million-mmH .million-purchase-zXZ {
+  margin: 0rem 7.479rem 0rem 8.321rem;
+  box-sizing: border-box;
+  padding: 0 1.05rem;
+  width: calc(100% - 15.8rem);
+  height: 5rem;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-2-uj5 .auto-group-mfaw-3KV .million-mmH .million-purchase-zXZ .button-vAK {
+  margin-bottom: 0.4rem;
+  width: 100%;
+  height: 4.6rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.7rem 2.1rem rgba(37, 44, 97, 0.200000003), 0 0.3rem 0.8rem rgba(136, 144, 194, 0.25);
+  background-color: #ffaa00;
+  border-radius: 0.4rem;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-2-uj5 .auto-group-mfaw-3KV .million-NHD {
+  width: 30rem;
+  height: 54.396rem;
+  position: absolute;
+  left: 10.5rem;
+  top: 3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-2-uj5 .auto-group-mfaw-3KV .million-NHD .million-image-Hf5 {
+  margin-bottom: 0.7674rem;
+  width: 30rem;
+  height: 40.0115rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-2-uj5 .auto-group-mfaw-3KV .million-NHD .million-text-dU3 {
+  margin-bottom: 0.3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.68rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffaa00;
+  font-family: Arial Rounded MT Bold, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-2-uj5 .auto-group-mfaw-3KV .million-NHD .million-price-ZMh {
+  margin: 0rem 0rem 0.517rem 0.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #a1deaa;
+  font-family: Arial Rounded MT Bold, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-2-uj5 .auto-group-mfaw-3KV .million-NHD .million-purchase-ECw {
+  margin: 0rem 7.879rem 0rem 7.921rem;
+  box-sizing: border-box;
+  padding: 0 1.05rem;
+  width: calc(100% - 15.8rem);
+  height: 5rem;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-2-uj5 .auto-group-mfaw-3KV .million-NHD .million-purchase-ECw .button-WAT {
+  margin-bottom: 0.4rem;
+  width: 100%;
+  height: 4.6rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.7rem 2.1rem rgba(37, 44, 97, 0.200000003), 0 0.3rem 0.8rem rgba(136, 144, 194, 0.25);
+  background-color: #ffaa00;
+  border-radius: 0.4rem;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-2-uj5 .auto-group-mfaw-3KV .banner-uTV {
+  width: 50.5rem;
+  height: 8.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-2-uj5 .auto-group-mfaw-3KV .banner-uTV .vector-3-br7 {
+  width: 25.779rem;
+  height: 8.4rem;
+  position: absolute;
+  left: 0;
+  top: 0rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-2-uj5 .auto-group-mfaw-3KV .banner-uTV .vector-4-ifq {
+  width: 25.779rem;
+  height: 8.4rem;
+  position: absolute;
+  left: 24.721rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-2-uj5 .auto-group-mfaw-3KV .banner-uTV .vector-5-T7d {
+  width: 2.1992rem;
+  height: 1.3034rem;
+  position: absolute;
+  left: 11.4845rem;
+  top: 6.9517rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-2-uj5 .auto-group-mfaw-3KV .banner-uTV .vector-6-z7Z {
+  width: 2.1991rem;
+  height: 1.4483rem;
+  position: absolute;
+  left: 36.6828rem;
+  top: 6.9391rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-2-uj5 .auto-group-mfaw-3KV .banner-uTV .vector-7-Kfd {
+  width: 0.9599rem;
+  height: 4.3448rem;
+  position: absolute;
+  left: 10.1405rem;
+  top: 2.4621rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-2-uj5 .auto-group-mfaw-3KV .banner-uTV .vector-8-rQf {
+  width: 0.9603rem;
+  height: 4.3448rem;
+  position: absolute;
+  left: 39.474rem;
+  top: 2.5565rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-2-uj5 .auto-group-mfaw-3KV .banner-uTV .popular-o51 {
+  width: 20.7rem;
+  height: 5rem;
+  position: absolute;
+  left: 14.9403rem;
+  top: 1.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1;
+  font-family: Luckiest Guy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-2-uj5 .million-ts9 {
+  width: 34.9rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-2-uj5 .million-ts9 .auto-group-i7wf-SNs {
+  margin-bottom: 0.9674rem;
+  width: 100%;
+  height: 43.0115rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-2-uj5 .million-ts9 .auto-group-i7wf-SNs .million-image-NnK {
+  width: 30rem;
+  height: 40.0115rem;
+  position: absolute;
+  left: 0;
+  top: 3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-2-uj5 .million-ts9 .auto-group-i7wf-SNs .vector-9-i5V {
+  width: 13.9rem;
+  height: 11.8rem;
+  position: absolute;
+  left: 21rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.5rem;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-2-uj5 .million-ts9 .auto-group-i7wf-SNs .item-5-eE3 {
+  width: 7.9rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 24.2rem;
+  top: 3.6rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Luckiest Guy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-2-uj5 .million-ts9 .million-text-ijh {
+  margin: 0rem 3.5rem 0.3rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.68rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffaa00;
+  font-family: Arial Rounded MT Bold, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-2-uj5 .million-ts9 .million-price-DwM {
+  margin: 0rem 3.4rem 0.517rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #a1deaa;
+  font-family: Arial Rounded MT Bold, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-2-uj5 .million-ts9 .million-purchase-wMZ {
+  margin: 0rem 12.079rem 0rem 8.621rem;
+  box-sizing: border-box;
+  padding: 0 1.05rem;
+  width: calc(100% - 20.7rem);
+  height: 5rem;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-pezd-USB .row-2-uj5 .million-ts9 .million-purchase-wMZ .button-Ft3 {
+  margin-bottom: 0.4rem;
+  width: 100%;
+  height: 4.6rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.7rem 2.1rem rgba(37, 44, 97, 0.200000003), 0 0.3rem 0.8rem rgba(136, 144, 194, 0.25);
+  background-color: #ffaa00;
+  border-radius: 0.4rem;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .risky-coins-heading-evB {
+  margin: 0rem 22rem 10.5rem 26.103rem;
+  width: calc(100% - 48.1026rem);
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .risky-coins-heading-evB .auto-group-86vd-ZnF {
+  margin-bottom: 1.8rem;
+  width: 91.4rem;
+  height: 4.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .risky-coins-heading-evB .auto-group-86vd-ZnF .divdivider-6XH {
+  width: 91.4rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 0;
+  top: 4.3rem;
+  border: solid 0.1rem #ccae4e;
+  box-sizing: border-box;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .risky-coins-heading-evB .auto-group-86vd-ZnF .heading-2-risky-coins-1u9 {
+  width: 28.2rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 31.6rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4.5rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #e31111;
+  font-family: Luckiest Guy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .risky-coins-heading-evB .coins-earned-using-more-complex-methods-very-small-ban-chance-2-5-J7Z {
+  width: 100%;
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #731717;
+  font-family: Luckiest Guy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .risky-coins-heading-evB .coins-earned-using-more-complex-methods-very-small-ban-chance-2-5-J7Z .coins-earned-using-more-complex-methods-very-small-ban-chance-2-5-J7Z-sub-0 {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #731717;
+  font-family: Luckiest Guy, 'Source Sans Pro';
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .risky-coins-heading-evB .coins-earned-using-more-complex-methods-very-small-ban-chance-2-5-J7Z .coins-earned-using-more-complex-methods-very-small-ban-chance-2-5-J7Z-sub-1 {
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .risky-coins-heading-evB .coins-earned-using-more-complex-methods-very-small-ban-chance-2-5-J7Z .coins-earned-using-more-complex-methods-very-small-ban-chance-2-5-J7Z-sub-2 {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #b71717;
+  font-family: Luckiest Guy, 'Source Sans Pro';
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-4-PAw {
+  margin: 0rem 4.81rem 10.333rem 7.592rem;
+  width: calc(100% - 12.4026rem);
+  height: 40.9671rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-4-PAw .sos-flare-5Jf {
+  margin-right: 6.3103rem;
+  width: 27.1rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-4-PAw .sos-flare-5Jf .sos-flare-image-bno {
+  margin-bottom: 0.25rem;
+  width: 27.1rem;
+  height: 27.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-4-PAw .sos-flare-5Jf .sos-flare-text-Wes {
+  margin: 0rem 0.1rem 0.3rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.68rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffaa00;
+  font-family: Arial Rounded MT Bold, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-4-PAw .sos-flare-5Jf .sos-flare-price-Cnb {
+  margin-bottom: 0.5171rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #a1deaa;
+  font-family: Arial Rounded MT Bold, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-4-PAw .sos-flare-5Jf .sos-flare-purchase-8AT {
+  margin: 0rem 6.479rem 0rem 6.421rem;
+  box-sizing: border-box;
+  padding: 0 1.05rem;
+  width: calc(100% - 12.9rem);
+  height: 5rem;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-4-PAw .sos-flare-5Jf .sos-flare-purchase-8AT .button-2md {
+  margin-bottom: 0.4rem;
+  width: 100%;
+  height: 4.6rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.7rem 2.1rem rgba(37, 44, 97, 0.200000003), 0 0.3rem 0.8rem rgba(136, 144, 194, 0.25);
+  background-color: #ffaa00;
+  border-radius: 0.4rem;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-4-PAw .judgement-core-rVm {
+  margin-right: 6.6897rem;
+  width: 27.1rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-4-PAw .judgement-core-rVm .judgement-core-image-z6B {
+  margin-bottom: 0.25rem;
+  width: 27.1rem;
+  height: 27.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-4-PAw .judgement-core-rVm .judgement-text-uyq {
+  margin: 0rem 0rem 0.3rem 0.179rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.68rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffaa00;
+  font-family: Arial Rounded MT Bold, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-4-PAw .judgement-core-rVm .judgement-price-d99 {
+  margin: 0rem 0rem 0.517rem 0.179rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #a1deaa;
+  font-family: Arial Rounded MT Bold, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-4-PAw .judgement-core-rVm .judgement-purchase-YG7 {
+  margin: 0rem 6.39rem 0rem 6.51rem;
+  box-sizing: border-box;
+  padding: 0 1.05rem;
+  width: calc(100% - 12.9rem);
+  height: 5rem;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-4-PAw .judgement-core-rVm .judgement-purchase-YG7 .button-epw {
+  margin-bottom: 0.4rem;
+  width: 100%;
+  height: 4.6rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.7rem 2.1rem rgba(37, 44, 97, 0.200000003), 0 0.3rem 0.8rem rgba(136, 144, 194, 0.25);
+  background-color: #ffaa00;
+  border-radius: 0.4rem;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-4-PAw .golden-dragon-uF5 {
+  margin-right: 6rem;
+  width: 27.1rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-4-PAw .golden-dragon-uF5 .golden-dragon-image-Eo9 {
+  margin-bottom: 0.7rem;
+  width: 27.1rem;
+  height: 27.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-4-PAw .golden-dragon-uF5 .golden-dragon-text-mYB {
+  margin: 0rem 0.7rem 0.75rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffaa00;
+  font-family: Arial Rounded MT Bold, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-4-PAw .golden-dragon-uF5 .golden-dragon-price-UhV {
+  margin: 0rem 0.6rem 0.517rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #a1deaa;
+  font-family: Arial Rounded MT Bold, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-4-PAw .golden-dragon-uF5 .golden-dragon-image-ny5 {
+  margin: 0rem 6.779rem 0rem 6.121rem;
+  box-sizing: border-box;
+  padding: 0 1.05rem;
+  width: calc(100% - 12.9rem);
+  height: 5rem;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-4-PAw .golden-dragon-uF5 .golden-dragon-image-ny5 .button-hq9 {
+  margin-bottom: 0.4rem;
+  width: 100%;
+  height: 4.6rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.7rem 2.1rem rgba(37, 44, 97, 0.200000003), 0 0.3rem 0.8rem rgba(136, 144, 194, 0.25);
+  background-color: #ffaa00;
+  border-radius: 0.4rem;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-4-PAw .racing-helmet-ikF {
+  width: 27.1rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-4-PAw .racing-helmet-ikF .racing-helmet-image-FVH {
+  margin-bottom: 0.25rem;
+  width: 27.1rem;
+  height: 27.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-4-PAw .racing-helmet-ikF .racing-helmet-text-Bdq {
+  margin-bottom: 0.3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.68rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffaa00;
+  font-family: Arial Rounded MT Bold, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-4-PAw .racing-helmet-ikF .racing-helmet-price-u43 {
+  margin-bottom: 0.5171rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #a1deaa;
+  font-family: Arial Rounded MT Bold, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-4-PAw .racing-helmet-ikF .racing-helmet-image-pwh {
+  margin: 0rem 6.479rem 0rem 6.421rem;
+  box-sizing: border-box;
+  padding: 0 1.05rem;
+  width: calc(100% - 12.9rem);
+  height: 5rem;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-4-PAw .racing-helmet-ikF .racing-helmet-image-pwh .button-jYs {
+  margin-bottom: 0.4rem;
+  width: 100%;
+  height: 4.6rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.7rem 2.1rem rgba(37, 44, 97, 0.200000003), 0 0.3rem 0.8rem rgba(136, 144, 194, 0.25);
+  background-color: #ffaa00;
+  border-radius: 0.4rem;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-5-mkT {
+  margin: 0rem 4.81rem 1.333rem 7.592rem;
+  width: calc(100% - 12.4026rem);
+  height: 40.9671rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-5-mkT .plasmaflux-HD1 {
+  margin-right: 6.4rem;
+  width: 27.1rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-5-mkT .plasmaflux-HD1 .auto-group-dnwh-cFH {
+  margin-bottom: 0.25rem;
+  width: 100%;
+  height: 27.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-5-mkT .plasmaflux-HD1 .auto-group-dnwh-cFH .sale-banner-9m1 {
+  width: 10.25rem;
+  height: 9.95rem;
+  position: absolute;
+  left: 16.8rem;
+  top: 0.05rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-5-mkT .plasmaflux-HD1 .auto-group-dnwh-cFH .sale-5ef {
+  width: 8.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 18.8448rem;
+  top: 1.9947rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.9rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Luckiest Guy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-5-mkT .plasmaflux-HD1 .auto-group-dnwh-cFH .plasmaflux-image-n3H {
+  width: 27.1rem;
+  height: 27.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-5-mkT .plasmaflux-HD1 .plasmaflux-text-Wjy {
+  margin: 0rem 0.1rem 0.3rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.68rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffaa00;
+  font-family: Arial Rounded MT Bold, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-5-mkT .plasmaflux-HD1 .plasmaflux-price-R6F {
+  margin-bottom: 0.5171rem;
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #a1deaa;
+  font-family: Arial Rounded MT Bold, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-5-mkT .plasmaflux-HD1 .plasmaflux-price-R6F .plasmaflux-price-R6F-sub-0 {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  text-decoration-line: line-through;
+  color: #ff0000;
+  font-family: Arial Rounded MT Bold, 'Source Sans Pro';
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-5-mkT .plasmaflux-HD1 .plasmaflux-price-R6F .plasmaflux-price-R6F-sub-1 {
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-5-mkT .plasmaflux-HD1 .plasmaflux-price-R6F .plasmaflux-price-R6F-sub-2 {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #09f92f;
+  font-family: Arial Rounded MT Bold, 'Source Sans Pro';
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-5-mkT .plasmaflux-HD1 .plasmaflux-purchase-q3V {
+  margin: 0rem 6.479rem 0rem 6.421rem;
+  box-sizing: border-box;
+  padding: 0 1.05rem;
+  width: calc(100% - 12.9rem);
+  height: 5rem;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-5-mkT .plasmaflux-HD1 .plasmaflux-purchase-q3V .button-9Zy {
+  margin-bottom: 0.4rem;
+  width: 100%;
+  height: 4.6rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.7rem 2.1rem rgba(37, 44, 97, 0.200000003), 0 0.3rem 0.8rem rgba(136, 144, 194, 0.25);
+  background-color: #ffaa00;
+  border-radius: 0.4rem;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-5-mkT .subzero-wisp-yZ1 {
+  margin-right: 6.6rem;
+  width: 27.1rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-5-mkT .subzero-wisp-yZ1 .subzero-wisp-image-79R {
+  margin-bottom: 0.25rem;
+  width: 27.1rem;
+  height: 27.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-5-mkT .subzero-wisp-yZ1 .subzero-wisp-text-qbD {
+  margin: 0rem 0.2rem 0.3rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.68rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffaa00;
+  font-family: Arial Rounded MT Bold, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-5-mkT .subzero-wisp-yZ1 .subzero-wisp-price-YkX {
+  margin: 0rem 0.2rem 0.517rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #a1deaa;
+  font-family: Arial Rounded MT Bold, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-5-mkT .subzero-wisp-yZ1 .subzero-wisp-purchase-4Ty {
+  margin: 0rem 6.579rem 0rem 6.321rem;
+  box-sizing: border-box;
+  padding: 0 1.05rem;
+  width: calc(100% - 12.9rem);
+  height: 5rem;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-5-mkT .subzero-wisp-yZ1 .subzero-wisp-purchase-4Ty .button-PFM {
+  margin-bottom: 0.4rem;
+  width: 100%;
+  height: 4.6rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.7rem 2.1rem rgba(37, 44, 97, 0.200000003), 0 0.3rem 0.8rem rgba(136, 144, 194, 0.25);
+  background-color: #ffaa00;
+  border-radius: 0.4rem;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-5-mkT .atomsplit-katana-cdu {
+  margin-right: 6rem;
+  width: 27.1rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-5-mkT .atomsplit-katana-cdu .atomsplit-katana-image-wgB {
+  margin-bottom: 0.7rem;
+  width: 27.1rem;
+  height: 27.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-5-mkT .atomsplit-katana-cdu .atomsplit-katana-text-sZq {
+  margin: 0rem 0.7rem 0.75rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffaa00;
+  font-family: Arial Rounded MT Bold, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-5-mkT .atomsplit-katana-cdu .atomsplit-katana-price-mv7 {
+  margin: 0rem 0.6rem 0.517rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #a1deaa;
+  font-family: Arial Rounded MT Bold, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-5-mkT .atomsplit-katana-cdu .atomsplit-katana-purchase-5vo {
+  margin: 0rem 6.779rem 0rem 6.121rem;
+  box-sizing: border-box;
+  padding: 0 1.05rem;
+  width: calc(100% - 12.9rem);
+  height: 5rem;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-5-mkT .atomsplit-katana-cdu .atomsplit-katana-purchase-5vo .button-oro {
+  margin-bottom: 0.4rem;
+  width: 100%;
+  height: 4.6rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.7rem 2.1rem rgba(37, 44, 97, 0.200000003), 0 0.3rem 0.8rem rgba(136, 144, 194, 0.25);
+  background-color: #ffaa00;
+  border-radius: 0.4rem;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-5-mkT .daedelus-axe-RtB {
+  width: 27.1rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-5-mkT .daedelus-axe-RtB .daedelus-axe-image-xdD {
+  margin-bottom: 0.25rem;
+  width: 27.1rem;
+  height: 27.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-5-mkT .daedelus-axe-RtB .daedelus-axe-text-k3H {
+  margin: 0rem 0rem 0.3rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.68rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffaa00;
+  font-family: Arial Rounded MT Bold, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-5-mkT .daedelus-axe-RtB .daedelus-axe-price-dcs {
+  margin: 0rem 0rem 0.517rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #a1deaa;
+  font-family: Arial Rounded MT Bold, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-5-mkT .daedelus-axe-RtB .daedelus-axe-purchase-YUw {
+  margin: 0rem 6.479rem 0rem 6.421rem;
+  box-sizing: border-box;
+  padding: 0 1.05rem;
+  width: calc(100% - 12.9rem);
+  height: 5rem;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .row-5-mkT .daedelus-axe-RtB .daedelus-axe-purchase-YUw .button-sXD {
+  margin-bottom: 0.4rem;
+  width: 100%;
+  height: 4.6rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.7rem 2.1rem rgba(37, 44, 97, 0.200000003), 0 0.3rem 0.8rem rgba(136, 144, 194, 0.25);
+  background-color: #ffaa00;
+  border-radius: 0.4rem;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-latf-6Py {
+  width: 100%;
+  height: 143.65rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-latf-6Py .sell-coins-heading-qMZ {
+  width: 137.2924rem;
+  height: 99.65rem;
+  position: absolute;
+  left: 0;
+  top: 44rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-latf-6Py .sell-coins-heading-qMZ .auto-group-4bcb-Z2f {
+  box-sizing: border-box;
+  padding: 0rem 20.1rem 1.55rem 25.792rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-latf-6Py .sell-coins-heading-qMZ .auto-group-4bcb-Z2f .heading-2-sell-coins-sZ9 {
+  margin: 0rem 0.4rem 1.3rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #e37611;
+  font-family: Luckiest Guy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-latf-6Py .sell-coins-heading-qMZ .auto-group-4bcb-Z2f .divdivider-B43 {
+  margin-bottom: 1.45rem;
+  width: 100%;
+  height: 0.2rem;
+  border: solid 0.1rem #ccae4e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-latf-6Py .sell-coins-heading-qMZ .auto-group-4bcb-Z2f .we-are-always-looking-to-buy-coins-safe-only-W6K {
+  margin-left: 1.3rem;
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #e4d760;
+  font-family: Luckiest Guy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-latf-6Py .sell-coins-heading-qMZ .auto-group-4bcb-Z2f .we-are-always-looking-to-buy-coins-safe-only-W6K .we-are-always-looking-to-buy-coins-safe-only-W6K-sub-0 {
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-latf-6Py .sell-coins-heading-qMZ .auto-group-4bcb-Z2f .we-are-always-looking-to-buy-coins-safe-only-W6K .we-are-always-looking-to-buy-coins-safe-only-W6K-sub-1 {
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1;
+  text-decoration-line: underline;
+  color: #e4d760;
+  font-family: Luckiest Guy, 'Source Sans Pro';
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-latf-6Py .sell-coins-heading-qMZ .auto-group-4bcb-Z2f .we-are-always-looking-to-buy-coins-safe-only-W6K .we-are-always-looking-to-buy-coins-safe-only-W6K-sub-2 {
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-latf-6Py .sell-coins-heading-qMZ .auto-group-nnjr-qH1 {
+  width: 100%;
+  height: 38.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-latf-6Py .sell-coins-heading-qMZ .auto-group-nnjr-qH1 .join-the-discord-and-open-a-ticket-to-sell-us-your-coins-0025-million-minimum-500-million-coins-y8K {
+  width: 97.5rem;
+  height: 20.8rem;
+  position: absolute;
+  left: 22.6924rem;
+  top: 0;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #ebeca9;
+  font-family: Luckiest Guy, 'Source Sans Pro';
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-latf-6Py .sell-coins-heading-qMZ .auto-group-nnjr-qH1 .join-the-discord-and-open-a-ticket-to-sell-us-your-coins-0025-million-minimum-500-million-coins-y8K .join-the-discord-and-open-a-ticket-to-sell-us-your-coins-0025-million-minimum-500-million-coins-y8K-sub-0 {
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #f1a762;
+  font-family: Luckiest Guy, 'Source Sans Pro';
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-latf-6Py .sell-coins-heading-qMZ .auto-group-nnjr-qH1 .join-the-discord-and-open-a-ticket-to-sell-us-your-coins-0025-million-minimum-500-million-coins-y8K .join-the-discord-and-open-a-ticket-to-sell-us-your-coins-0025-million-minimum-500-million-coins-y8K-sub-1 {
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-latf-6Py .sell-coins-heading-qMZ .auto-group-nnjr-qH1 .join-the-discord-and-open-a-ticket-to-sell-us-your-coins-0025-million-minimum-500-million-coins-y8K .join-the-discord-and-open-a-ticket-to-sell-us-your-coins-0025-million-minimum-500-million-coins-y8K-sub-2 {
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #05ff00;
+  font-family: Luckiest Guy, 'Source Sans Pro';
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-latf-6Py .sell-coins-heading-qMZ .auto-group-nnjr-qH1 .join-the-discord-and-open-a-ticket-to-sell-us-your-coins-0025-million-minimum-500-million-coins-y8K .join-the-discord-and-open-a-ticket-to-sell-us-your-coins-0025-million-minimum-500-million-coins-y8K-sub-3 {
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-latf-6Py .sell-coins-heading-qMZ .auto-group-nnjr-qH1 .join-the-discord-and-open-a-ticket-to-sell-us-your-coins-0025-million-minimum-500-million-coins-y8K .join-the-discord-and-open-a-ticket-to-sell-us-your-coins-0025-million-minimum-500-million-coins-y8K-sub-4 {
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #abeca9;
+  font-family: Luckiest Guy, 'Source Sans Pro';
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-latf-6Py .sell-coins-heading-qMZ .auto-group-nnjr-qH1 .join-the-discord-and-open-a-ticket-to-sell-us-your-coins-0025-million-minimum-500-million-coins-y8K .join-the-discord-and-open-a-ticket-to-sell-us-your-coins-0025-million-minimum-500-million-coins-y8K-sub-5 {
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #ffb700;
+  font-family: Luckiest Guy, 'Source Sans Pro';
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-latf-6Py .sell-coins-heading-qMZ .auto-group-nnjr-qH1 .line-1-xXy {
+  width: 48.0924rem;
+  height: 9.3494rem;
+  position: absolute;
+  left: 0;
+  top: 29.4506rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-latf-6Py .sell-coins-heading-qMZ .auto-group-nnjr-qH1 .line-2-6PH {
+  width: 44.1rem;
+  height: 20rem;
+  position: absolute;
+  left: 93.1924rem;
+  top: 14.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-latf-6Py .sell-coins-heading-qMZ .auto-group-6vpz-EVV {
+  box-sizing: border-box;
+  padding-left: 7.7424rem;
+  width: 100%;
+  height: 46.35rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-latf-6Py .sell-coins-heading-qMZ .auto-group-6vpz-EVV .primary-button-xwH {
+  margin: 0rem 46.4rem 0rem 44.25rem;
+  box-sizing: border-box;
+  padding: 2.6rem 7.45rem 0.7rem 7.45rem;
+  width: calc(100% - 90.65rem);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Luckiest Guy, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0 5rem rgba(128, 112, 226, 0.25);
+  background-color: #6a5acd;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-latf-6Py .sell-coins-heading-qMZ .auto-group-6vpz-EVV .auto-group-gjsy-z7H {
+  margin: 0rem 0rem 10.65rem 19.95rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-latf-6Py .sell-coins-heading-qMZ .auto-group-6vpz-EVV .auto-group-gjsy-z7H .line-4-KQT {
+  margin: 2rem 4.5rem 0rem 0rem;
+  width: 20.4rem;
+  height: 8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-latf-6Py .sell-coins-heading-qMZ .auto-group-6vpz-EVV .auto-group-gjsy-z7H .or-contact-wwwcowcom-on-discord-r9V {
+  margin: 4.4rem 2.9rem 0rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #c5bfeb;
+  font-family: Luckiest Guy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-latf-6Py .sell-coins-heading-qMZ .auto-group-6vpz-EVV .auto-group-gjsy-z7H .line-3-Mc3 {
+  width: 44.1rem;
+  height: 23.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-latf-6Py .sell-coins-heading-qMZ .auto-group-6vpz-EVV .questions-comments-join-the-discord-JnB {
+  margin-right: 4.05rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1;
+  font-family: Luckiest Guy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-latf-6Py .arrow-1-D8T {
+  width: 1.7268rem;
+  height: 44.05rem;
+  position: absolute;
+  left: 70.4393rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-latf-6Py .want-to-sell-coins-keep-scrolling-YgX {
+  width: 41.7rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 50.4026rem;
+  top: 14.95rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1;
+  color: rgba(255, 255, 255, 0.3000000119);
+  font-family: Luckiest Guy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-latf-6Py .notice-we-are-not-for-anything-after-sale-S1D {
+  width: 135.3rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 4.5026rem;
+  top: 129.9rem;
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1;
+  color: rgba(255, 255, 255, 0.25);
+  font-family: Luckiest Guy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-latf-6Py .notice-we-are-not-for-anything-after-sale-S1D .notice-we-are-not-for-anything-after-sale-S1D-sub-0 {
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1;
+  color: rgba(255, 255, 255, 0.25);
+  font-family: Luckiest Guy, 'Source Sans Pro';
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-latf-6Py .notice-we-are-not-for-anything-after-sale-S1D .notice-we-are-not-for-anything-after-sale-S1D-sub-1 {
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1;
+  text-transform: uppercase;
+  text-decoration-line: underline;
+  color: rgba(255, 255, 255, 0.25);
+  font-family: Luckiest Guy, 'Source Sans Pro';
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-latf-6Py .notice-we-are-not-for-anything-after-sale-S1D .notice-we-are-not-for-anything-after-sale-S1D-sub-2 {
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1;
+  color: rgba(255, 255, 255, 0.25);
+  font-family: Luckiest Guy, 'Source Sans Pro';
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-latf-6Py .notice-we-are-not-for-anything-after-sale-S1D .notice-we-are-not-for-anything-after-sale-S1D-sub-3 {
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1;
+  text-decoration-line: underline;
+  color: rgba(255, 255, 255, 0.25);
+  font-family: Luckiest Guy, 'Source Sans Pro';
+}
+.cauctionxyz-coins-Chm .section-7pj .auto-group-sols-SJb .auto-group-latf-6Py .notice-we-are-not-for-anything-after-sale-S1D .notice-we-are-not-for-anything-after-sale-S1D-sub-4 {
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1;
+  color: rgba(255, 255, 255, 0.25);
+  font-family: Luckiest Guy, 'Source Sans Pro';
+}
+.cauctionxyz-coins-Chm .section-7pj .footer-aHm {
+  width: 100%;
+  height: 10rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ccae4e;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: rgba(28, 28, 28, 0.8000000119);
+  flex-shrink: 0;
+}
+.cauctionxyz-coins-Chm .section-7pj .footer-aHm .footer-aHm-sub-0 {
+}
+.cauctionxyz-coins-Chm .section-7pj .footer-aHm .footer-aHm-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #738adb;
+  font-family: Arial, 'Source Sans Pro';
+}

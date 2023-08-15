@@ -1,0 +1,487 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.cauctionxyz-home-kVd {
+  width: 100%;
+  height: 247rem;
+  position: relative;
+  background-color: #1c1c1c;
+}
+.cauctionxyz-home-kVd .section-Tuq {
+  width: 192rem;
+  height: 238rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/background-bg-VPm.png');
+  background-color: #242424;
+}
+.cauctionxyz-home-kVd .section-Tuq .auto-group-tuqf-ydH {
+  margin-bottom: 3.291rem;
+  width: 100%;
+  height: 18.559rem;
+  flex-shrink: 0;
+}
+.cauctionxyz-home-kVd .section-Tuq .auto-group-tuqf-ydH .header-Wt7 {
+  box-sizing: border-box;
+  padding: 3rem 1.784rem 2.909rem 77.55rem;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: rgba(28, 28, 28, 0.75);
+}
+.cauctionxyz-home-kVd .section-Tuq .auto-group-tuqf-ydH .header-Wt7 .coins-37M {
+  margin: 10.55rem 0.02rem 0rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffc712;
+  font-family: Arimo Hebrew Subset, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-home-kVd .section-Tuq .auto-group-tuqf-ydH .header-Wt7 .auto-group-n911-uvF {
+  margin: 2.43rem 73.43rem 0rem 0rem;
+  width: 29.4rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cauctionxyz-home-kVd .section-Tuq .auto-group-tuqf-ydH .header-Wt7 .auto-group-n911-uvF .link-heading-1-cs-auction-Rdh {
+  margin-bottom: 0.52rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 6rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  font-family: Arimo Hebrew Subset, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-home-kVd .section-Tuq .auto-group-tuqf-ydH .header-Wt7 .auto-group-n911-uvF .auto-group-44tf-7WX {
+  margin-right: 0.1205rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.cauctionxyz-home-kVd .section-Tuq .auto-group-tuqf-ydH .header-Wt7 .auto-group-n911-uvF .auto-group-44tf-7WX .miscellaneous-3f5 {
+  margin-right: 3.15rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffc712;
+  font-family: Arimo Hebrew Subset, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-home-kVd .section-Tuq .auto-group-tuqf-ydH .header-Wt7 .auto-group-n911-uvF .auto-group-44tf-7WX .items-Mfm {
+  margin-right: 3.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffc712;
+  font-family: Arimo Hebrew Subset, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-home-kVd .section-Tuq .auto-group-tuqf-ydH .header-Wt7 .auto-group-n911-uvF .auto-group-44tf-7WX .discord-67Z {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #513dcf;
+  font-family: Arimo Hebrew Subset, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-home-kVd .section-Tuq .auto-group-tuqf-ydH .header-Wt7 .link-Q8F {
+  margin-bottom: 9.85rem;
+  width: 5.916rem;
+  height: 2.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #1c1c1c;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #ccae4e;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.cauctionxyz-home-kVd .section-Tuq .about-us-TMR {
+  margin-right: 5.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #ffaf00;
+  font-family: Luckiest Guy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-home-kVd .section-Tuq .auto-group-bmfv-x3H {
+  width: 100%;
+  height: 209.75rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.cauctionxyz-home-kVd .section-Tuq .auto-group-bmfv-x3H .cs-auction-is-the-1-website-for-anything-related-to-hypixel-skyblock-items-coins-accessories-pets-and-more-are-all-available-bundles-of-items-that-are-not-available-anywhere-else-are-offered-and-the-best-part-its-100-safe-5tb {
+  width: 137.6rem;
+  height: 25rem;
+  position: absolute;
+  left: 27.2rem;
+  top: 4.95rem;
+  text-align: center;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1;
+  color: rgba(255, 255, 255, 0.5);
+  font-family: Luckiest Guy, 'Source Sans Pro';
+}
+.cauctionxyz-home-kVd .section-Tuq .auto-group-bmfv-x3H .dev-1-3yq {
+  box-sizing: border-box;
+  padding: 5rem 3.5rem 4.999rem 3.1rem;
+  width: 60rem;
+  height: 30rem;
+  position: absolute;
+  left: 63.8rem;
+  top: 113.85rem;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0 5rem #000000;
+  background-color: rgba(20, 20, 20, 0.75);
+  border-radius: 1rem;
+}
+.cauctionxyz-home-kVd .section-Tuq .auto-group-bmfv-x3H .dev-1-3yq .auto-group-no7v-LT9 {
+  margin: 0rem 5.15rem 4.751rem 0rem;
+  width: 21.4rem;
+  height: 13.25rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.cauctionxyz-home-kVd .section-Tuq .auto-group-bmfv-x3H .dev-1-3yq .auto-group-no7v-LT9 .h2-rRV {
+  width: 21.4rem;
+  height: 12.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  font-size: 12.8rem;
+  font-weight: 400;
+  line-height: 1;
+  font-family: Luckiest Guy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cauctionxyz-home-kVd .section-Tuq .auto-group-bmfv-x3H .dev-1-3yq .auto-group-no7v-LT9 .wwwcowcom-xjR {
+  width: 18.8rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 10.85rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1;
+  color: rgba(74, 79, 214, 0.5);
+  font-family: Luckiest Guy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cauctionxyz-home-kVd .section-Tuq .auto-group-bmfv-x3H .dev-1-3yq .line-5-daf {
+  margin-right: 6.457rem;
+  width: 0.393rem;
+  height: 20.0012rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cauctionxyz-home-kVd .section-Tuq .auto-group-bmfv-x3H .dev-1-3yq .gengarpfp-1-MmZ {
+  margin-bottom: 0.0007rem;
+  width: 20rem;
+  height: 20rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.cauctionxyz-home-kVd .section-Tuq .auto-group-bmfv-x3H .developer-So1 {
+  width: 31.6rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 78.05rem;
+  top: 102.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1;
+  font-family: Luckiest Guy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cauctionxyz-home-kVd .section-Tuq .auto-group-bmfv-x3H .questions-comments-join-the-discord-Z6w {
+  width: 125.5rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 33.25rem;
+  top: 202.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1;
+  font-family: Luckiest Guy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cauctionxyz-home-kVd .section-Tuq .auto-group-bmfv-x3H .notice-we-are-not-for-anything-after-sale-eu5 {
+  width: 135.3rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 28.4rem;
+  top: 182.45rem;
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1;
+  color: rgba(255, 255, 255, 0.25);
+  font-family: Luckiest Guy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cauctionxyz-home-kVd .section-Tuq .auto-group-bmfv-x3H .notice-we-are-not-for-anything-after-sale-eu5 .notice-we-are-not-for-anything-after-sale-eu5-sub-0 {
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1;
+  color: rgba(255, 255, 255, 0.25);
+  font-family: Luckiest Guy, 'Source Sans Pro';
+}
+.cauctionxyz-home-kVd .section-Tuq .auto-group-bmfv-x3H .notice-we-are-not-for-anything-after-sale-eu5 .notice-we-are-not-for-anything-after-sale-eu5-sub-1 {
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1;
+  text-transform: uppercase;
+  text-decoration-line: underline;
+  color: rgba(255, 255, 255, 0.25);
+  font-family: Luckiest Guy, 'Source Sans Pro';
+}
+.cauctionxyz-home-kVd .section-Tuq .auto-group-bmfv-x3H .notice-we-are-not-for-anything-after-sale-eu5 .notice-we-are-not-for-anything-after-sale-eu5-sub-2 {
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1;
+  color: rgba(255, 255, 255, 0.25);
+  font-family: Luckiest Guy, 'Source Sans Pro';
+}
+.cauctionxyz-home-kVd .section-Tuq .auto-group-bmfv-x3H .notice-we-are-not-for-anything-after-sale-eu5 .notice-we-are-not-for-anything-after-sale-eu5-sub-3 {
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1;
+  text-decoration-line: underline;
+  color: rgba(255, 255, 255, 0.25);
+  font-family: Luckiest Guy, 'Source Sans Pro';
+}
+.cauctionxyz-home-kVd .section-Tuq .auto-group-bmfv-x3H .notice-we-are-not-for-anything-after-sale-eu5 .notice-we-are-not-for-anything-after-sale-eu5-sub-4 {
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1;
+  color: rgba(255, 255, 255, 0.25);
+  font-family: Luckiest Guy, 'Source Sans Pro';
+}
+.cauctionxyz-home-kVd .section-Tuq .auto-group-bmfv-x3H .sell-coins-heading-fUj {
+  width: 87.7rem;
+  height: 51.8rem;
+  position: absolute;
+  left: 50.25rem;
+  top: 38.55rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.cauctionxyz-home-kVd .section-Tuq .auto-group-bmfv-x3H .sell-coins-heading-fUj .join-the-discord-and-sell-us-your-coins-and-items-0025-million-ie-item-worth-100m-250-minimum-item-value-100-million-coins-minimum-coin-sell-amount-100-million-coins-PQj {
+  max-width: 87.7rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #ebeca9;
+  font-family: Luckiest Guy, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.cauctionxyz-home-kVd .section-Tuq .auto-group-bmfv-x3H .sell-coins-heading-fUj .join-the-discord-and-sell-us-your-coins-and-items-0025-million-ie-item-worth-100m-250-minimum-item-value-100-million-coins-minimum-coin-sell-amount-100-million-coins-PQj .join-the-discord-and-sell-us-your-coins-and-items-0025-million-ie-item-worth-100m-250-minimum-item-value-100-million-coins-minimum-coin-sell-amount-100-million-coins-PQj-sub-0 {
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1;
+  color: rgba(255, 255, 255, 0.5);
+  font-family: Luckiest Guy, 'Source Sans Pro';
+}
+.cauctionxyz-home-kVd .section-Tuq .auto-group-bmfv-x3H .sell-coins-heading-fUj .join-the-discord-and-sell-us-your-coins-and-items-0025-million-ie-item-worth-100m-250-minimum-item-value-100-million-coins-minimum-coin-sell-amount-100-million-coins-PQj .join-the-discord-and-sell-us-your-coins-and-items-0025-million-ie-item-worth-100m-250-minimum-item-value-100-million-coins-minimum-coin-sell-amount-100-million-coins-PQj-sub-1 {
+}
+.cauctionxyz-home-kVd .section-Tuq .auto-group-bmfv-x3H .sell-coins-heading-fUj .join-the-discord-and-sell-us-your-coins-and-items-0025-million-ie-item-worth-100m-250-minimum-item-value-100-million-coins-minimum-coin-sell-amount-100-million-coins-PQj .join-the-discord-and-sell-us-your-coins-and-items-0025-million-ie-item-worth-100m-250-minimum-item-value-100-million-coins-minimum-coin-sell-amount-100-million-coins-PQj-sub-2 {
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #05ff00;
+  font-family: Luckiest Guy, 'Source Sans Pro';
+}
+.cauctionxyz-home-kVd .section-Tuq .auto-group-bmfv-x3H .sell-coins-heading-fUj .join-the-discord-and-sell-us-your-coins-and-items-0025-million-ie-item-worth-100m-250-minimum-item-value-100-million-coins-minimum-coin-sell-amount-100-million-coins-PQj .join-the-discord-and-sell-us-your-coins-and-items-0025-million-ie-item-worth-100m-250-minimum-item-value-100-million-coins-minimum-coin-sell-amount-100-million-coins-PQj-sub-3 {
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #159b12;
+  font-family: Luckiest Guy, 'Source Sans Pro';
+}
+.cauctionxyz-home-kVd .section-Tuq .auto-group-bmfv-x3H .sell-coins-heading-fUj .join-the-discord-and-sell-us-your-coins-and-items-0025-million-ie-item-worth-100m-250-minimum-item-value-100-million-coins-minimum-coin-sell-amount-100-million-coins-PQj .join-the-discord-and-sell-us-your-coins-and-items-0025-million-ie-item-worth-100m-250-minimum-item-value-100-million-coins-minimum-coin-sell-amount-100-million-coins-PQj-sub-4 {
+}
+.cauctionxyz-home-kVd .section-Tuq .auto-group-bmfv-x3H .sell-coins-heading-fUj .join-the-discord-and-sell-us-your-coins-and-items-0025-million-ie-item-worth-100m-250-minimum-item-value-100-million-coins-minimum-coin-sell-amount-100-million-coins-PQj .join-the-discord-and-sell-us-your-coins-and-items-0025-million-ie-item-worth-100m-250-minimum-item-value-100-million-coins-minimum-coin-sell-amount-100-million-coins-PQj-sub-5 {
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #abeca9;
+  font-family: Luckiest Guy, 'Source Sans Pro';
+}
+.cauctionxyz-home-kVd .section-Tuq .auto-group-bmfv-x3H .sell-coins-heading-fUj .join-the-discord-and-sell-us-your-coins-and-items-0025-million-ie-item-worth-100m-250-minimum-item-value-100-million-coins-minimum-coin-sell-amount-100-million-coins-PQj .join-the-discord-and-sell-us-your-coins-and-items-0025-million-ie-item-worth-100m-250-minimum-item-value-100-million-coins-minimum-coin-sell-amount-100-million-coins-PQj-sub-6 {
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #ffb700;
+  font-family: Luckiest Guy, 'Source Sans Pro';
+}
+.cauctionxyz-home-kVd .section-Tuq .auto-group-bmfv-x3H .sell-coins-heading-fUj .join-the-discord-and-sell-us-your-coins-and-items-0025-million-ie-item-worth-100m-250-minimum-item-value-100-million-coins-minimum-coin-sell-amount-100-million-coins-PQj .join-the-discord-and-sell-us-your-coins-and-items-0025-million-ie-item-worth-100m-250-minimum-item-value-100-million-coins-minimum-coin-sell-amount-100-million-coins-PQj-sub-7 {
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #abeca9;
+  font-family: Luckiest Guy, 'Source Sans Pro';
+}
+.cauctionxyz-home-kVd .section-Tuq .auto-group-bmfv-x3H .sell-coins-heading-fUj .join-the-discord-and-sell-us-your-coins-and-items-0025-million-ie-item-worth-100m-250-minimum-item-value-100-million-coins-minimum-coin-sell-amount-100-million-coins-PQj .join-the-discord-and-sell-us-your-coins-and-items-0025-million-ie-item-worth-100m-250-minimum-item-value-100-million-coins-minimum-coin-sell-amount-100-million-coins-PQj-sub-8 {
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #ffb700;
+  font-family: Luckiest Guy, 'Source Sans Pro';
+}
+.cauctionxyz-home-kVd .section-Tuq .auto-group-bmfv-x3H .sell-coins-heading-fUj .auto-group-z551-UF9 {
+  box-sizing: border-box;
+  padding: 11.1rem 24.242rem 0rem 24.558rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cauctionxyz-home-kVd .section-Tuq .auto-group-bmfv-x3H .sell-coins-heading-fUj .auto-group-z551-UF9 .primary-button-b4s {
+  margin-bottom: 1.4rem;
+  box-sizing: border-box;
+  padding: 2.6rem 7.45rem 0.7rem 7.45rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Luckiest Guy, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0 5rem rgba(128, 112, 226, 0.25);
+  background-color: #6a5acd;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.cauctionxyz-home-kVd .section-Tuq .auto-group-bmfv-x3H .sell-coins-heading-fUj .auto-group-z551-UF9 .or-contact-wwwcowcom-on-discord-RJo {
+  margin-right: 0.8153rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #c5bfeb;
+  font-family: Luckiest Guy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cauctionxyz-home-kVd .section-Tuq .auto-group-bmfv-x3H .divdivider-j4b {
+  width: 91.4rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 48.4rem;
+  top: 3.25rem;
+  border: solid 0.2rem #ccae4e;
+  box-sizing: border-box;
+}
+.cauctionxyz-home-kVd .section-Tuq .auto-group-bmfv-x3H .divdivider-Sjh {
+  width: 91.4rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 48.1rem;
+  top: 109.15rem;
+  border: solid 0.2rem #ffffff;
+  box-sizing: border-box;
+  box-shadow: 0 0 5rem #ffffff;
+}
+.cauctionxyz-home-kVd .footer-XFM {
+  width: 192rem;
+  height: 10rem;
+  position: absolute;
+  left: 0;
+  top: 237rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ccae4e;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #1c1c1c;
+}
+.cauctionxyz-home-kVd .footer-XFM .footer-XFM-sub-0 {
+}
+.cauctionxyz-home-kVd .footer-XFM .footer-XFM-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #738adb;
+  font-family: Arial, 'Source Sans Pro';
+}
